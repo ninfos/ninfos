@@ -1,0 +1,2 @@
+# ninfos
+Novatos de Informática
